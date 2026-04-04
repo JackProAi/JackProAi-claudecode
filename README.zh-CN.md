@@ -6,7 +6,7 @@
 >
 > **抖音/B站/小红书：JACK的AI视界。公众号：JACK带你玩AI。**
 >  
-> ![抖音/B站/小红书：JACK的AI视界](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%2FB%E7%AB%99%2F%E5%B0%8F%E7%BA%A2%E4%B9%A6-JACK%E7%9A%84AI%E8%A7%86%E7%95%8C-ff2d55?style=for-the-badge&logo=tiktok&logoColor=white) ![公众号：JACK带你玩AI](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JACK%E5%B8%A6%E4%BD%A0%E7%8E%A9AI-ff6a00?style=for-the-badge&logo=wechat&logoColor=white)
+> ![社媒入口（浅蓝）](./assets/social-links-lightblue.svg)
 
 [Read English Documentation](./README.md)
 [更新日志](./CHANGELOG.md)
